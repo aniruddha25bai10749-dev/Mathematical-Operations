@@ -10,7 +10,7 @@ The primary goal of the notebook is to provide runnable, self-contained implemen
 
 The library includes implementations for a wide range of mathematical functions, categorized as follows:
 
-1. Number Properties & Classification
+**1. Number Properties & Classification**
 
 **Factorial**
 
