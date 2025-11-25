@@ -1,4 +1,4 @@
-# ProgramCodes.ipynb – Ultimate Number Theory Toolkit in Python
+#  Ultimate Number Theory Toolkit in Python
 
 A single, well-structured Jupyter Notebook containing **40+ pure-Python implementations** of classic and advanced number-theoretic functions, special number checks, sequences, and cryptographic primitives.
 
