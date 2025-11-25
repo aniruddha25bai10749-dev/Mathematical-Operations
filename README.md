@@ -53,6 +53,10 @@ jupyter lab                     # or: jupyter notebook
 3. Choose the file `ProgramCodes.ipynb` from your computer  
 4. That's it! Now simply click any cell and press **Shift + Enter**
 ```
+## Instructions for Testing 
+
+Every single cell in this notebook is a **complete, independent test case**.  
+Just follow these 3 steps to test any function:
 
 
 ### How to Test / Use
